@@ -21,15 +21,15 @@ func main() {
 
     nKandidat = 10
     ats[0] = Kandidat{"Dimas", "Backend_Dev", 3, 15000000, "Interview"}
-    ats[1] = Kandidat{"Dabi", "Frontend_Dev", 1, 8000000, "Screening"}
-    ats[2] = Kandidat{"Hans", "Mobile_Dev", 5, 25000000, "Hired"}
-    ats[3] = Kandidat{"anggun", "Backend_Dev", 3, 15000000, "Interview"}
-    ats[4] = Kandidat{"naufal", "Frontend_Dev", 1, 8000000, "Screening"}
-    ats[5] = Kandidat{"cayu", "Mobile_Dev", 5, 25000000, "Hired"}
-    ats[6] = Kandidat{"rekal", "Backend_Dev", 3, 15000000, "Interview"}
-    ats[7] = Kandidat{"pasha", "Frontend_Dev", 1, 8000000, "Screening"}
-    ats[8] = Kandidat{"akm", "Mobile_Dev", 5, 25000000, "Hired"}
-    ats[9] = Kandidat{"joji", "Mobile_Dev", 5, 25000000, "Hired"}
+    ats[1] = Kandidat{"Dabi", "Frontend_Dev", 7, 8000000, "Screening"}
+    ats[2] = Kandidat{"Hans", "Mobile_Dev", 5, 9000000, "Hired"}
+    ats[3] = Kandidat{"Anggun", "Backend_Dev", 6, 30000000, "Interview"}
+    ats[4] = Kandidat{"Naufal", "Frontend_Dev", 8, 35000000, "Screening"}
+    ats[5] = Kandidat{"Cayu", "Mobile_Dev", 4, 25000000, "Hired"}
+    ats[6] = Kandidat{"Rekal", "Backend_Dev", 2, 5000000, "Interview"}
+    ats[7] = Kandidat{"Pasha", "Frontend_Dev", 9, 40000000, "Screening"}
+    ats[8] = Kandidat{"Fathan", "Mobile_Dev", 10, 37000000, "Hired"}
+    ats[9] = Kandidat{"Joji", "Mobile_Dev", 5, 20000000, "Hired"}
 
     pilihan = 0
     for pilihan != 10 {
